@@ -1,0 +1,6 @@
+{
+  "name": "AetherERP - Modern Full-Stack ERP Framework & Apps",
+  "description": "Full-stack ERP application framework with Python database abstraction, authentication, REST API explorer, modern UI component library, and enterprise business modules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
